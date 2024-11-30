@@ -14,4 +14,6 @@ La aplicación se abrirá automáticamente en el navegador configurado por defec
 
 Esta aplicación tiene copmo propósito conocer el monto de dinero que cada estudiante piensa invertir al ir a Japón, al conocer la divisa de moneda en Japon y poder Convertirla a pesos Mexicanos. 
 
-Se adjunta el link de los cambios del sprint #3 
+Se adjunta el link de los cambios del sprint #3
+
+https://drive.google.com/file/d/1L9mxvlRPb-gTab4rog_msiyIwYNNj6_z/view?usp=sharing
